@@ -6,20 +6,23 @@ Translation:
 
 young-il-long-kiyoshi
 
-mariethe crocheter
+mariethecrocheter
 
 thesteveengine
 
+JustinOutbreak
 
 
-Editing&Hacking:
+Editing & Hacking:
 
 
 Silent Hell
+
+Technickal
 
 
 
 Contributors:
 
 
-Technickal
+TBD
